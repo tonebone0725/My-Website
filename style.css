@@ -1,0 +1,28 @@
+/* Style.css */
+body {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#navlist li {
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+}
+
+img {
+	border: 1px solid #000;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+}
+
+#contentimage {
+	width: 200px;
+	height: auto;
+	float: left;
+}
+
+#text {
+	float: right;
+}
